@@ -1,0 +1,4 @@
+moviepy==1.0.3
+librosa==0.10.2
+opencv-python==4.10.0.84
+numpy==2.1.3
